@@ -1,6 +1,5 @@
 {
-  "name": "vite-react-typescript-starter",
-  "private": true,
+  "name": "vite-react-typescript-starter-8074",
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://your-username.github.io/repo-name",
@@ -15,7 +14,8 @@
   "dependencies": {
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "vite-react-typescript-starter-8074": "^0.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
